@@ -1,0 +1,16 @@
+body{
+  display: flex;
+  align-items: center;
+  margin-top: 200px;
+  flex-direction: column;
+}
+.btn1 {
+
+  background-color: brown;
+  color: white;
+  padding: 20px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  width: 200px;
+}
